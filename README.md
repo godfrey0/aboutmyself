@@ -1,11 +1,12 @@
-# aboutmyself
+aboutmyself
 
 CURRICULUM VITAE
 
 Ong Ser Thong Godfrey 王 赐 通
 MBA (Adelaide), QMR (SAPI), SDFEM (NP), Dip Th, BA Min (Minor in CE), Soltam Systems (EP), FinTech Senior Developer (NUS School of Computing)
-https://github.com/godfrey0/cv | https://v2.credential.net/profile/ongserthong325210/wallet | www.linkedin.com/in/godfrey0 |
-https://www.researchgate.net/profile/ong-godfrey | serthongong@gmail.com | +65 81813136
+- https://github.com/godfrey0/cv | https://v2.credential.net/profile/ongserthong325210/wallet | www.linkedin.com/in/godfrey0 |
+- https://www.researchgate.net/profile/ong-godfrey | serthongong@gmail.com | +65 81813136
+
 CAREER SUMMARY
 
 Earlier in career was awarded an overseas course of study by the Government of Singapore. Many years of experience from the Engineering to Life science to Information Technology to the Supply Chain. Making crossover through mid-career switch from Information technology, dare to seek employment by counting on the fresh capacity building skills from NUS School of Computing and in conjunction with unique set of experience from the supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to comprehend the concepts from helicopter view, to think critically and to iron out the rough patches.
